@@ -1,6 +1,7 @@
 ---
 title: 'Hello, my name is'
 name: 'Akshay Shahi'
+nickname: 'zlatanned'
 subtitle: 'I love exploring new things!'
 buttonText: 'Say Hello ...'
 ---
