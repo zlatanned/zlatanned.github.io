@@ -2,6 +2,7 @@
 title: 'Hello, my name is'
 name: 'Akshay Shahi'
 nickname: 'zlatanned'
+location: 'Hyderabad, India'
 subtitle: 'I love exploring new things!'
 buttonText: 'Say Hello ...'
 ---
