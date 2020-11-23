@@ -9,4 +9,4 @@ buttonText: 'Say Hello ...'
 
 I'm a Backend Developer💻 and a Football Fanatic ⚽️!
 
-I enjoy reading tech blogs and also helping every tech beginner I come across!
+I enjoy exploring new and interesting technolgies and likes discussing/reading about personal finance!
