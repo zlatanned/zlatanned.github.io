@@ -15,13 +15,24 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInRight">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Senior Software Engineer, Manager at DLT Labs<span> September 2021-present</span></h2>
+                        <p></p>
+                      </div>
+                    </div>
+                  </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Software Engineer, Assistant Manager at DLT Labs<span> August 2019-present</span></h2>
+                        <h2>Software Engineer, Assistant Manager at DLT Labs<span> August 2019-August 2021</span></h2>
                         <p>I joined DLT Labs as a Software Engineer Trainee. Post training, I was designated as Software Engineer as a backend developer and have worked in various projects and products. Overseen complete SDLC for a particular product with 100% on-time development delivery.</p>
                       </div>
                     </div>

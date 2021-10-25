@@ -54,18 +54,18 @@ export default class About extends Component {
                 </div>
             </div>
             
-            {/*
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-2">
                 <span className="icon">
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Jenkins , Kubernetes , Docker </p>
+                    <h3>Fullstack Development</h3>
+                    <p>Php, Magento 2, MySQL, HTML, CSS, jQuery, AJAX etc. </p>
                 </div>
                 </div>
             </div>
+            {/*
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-4">
                 <span className="icon">
